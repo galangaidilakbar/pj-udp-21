@@ -1,3 +1,4 @@
+
 ## UDP
 
 UDP adalah singkatan dari User Datagram Protocol yang berfungsi sebagai **Protokol Komunikasi** pengiriman data yang sangat **cepat**. UDP digunakan di **Video** Playback atau DNS Lookups. UDP Cepat karena **tidak perlu mendirikan koneksi antar komputer** sebelum data di kirimkan. UDP dikenal sebagai **unreliable** karena data yang dikirim bisa **hilang** selama pengiriman.
@@ -21,6 +22,8 @@ Untuk menggunakan UDP di NodeJS, kita butuh module yang bernama dgram. Module dg
    ```
    node client
    ```
+5. Lihat [video penggunaan](https://user-images.githubusercontent.com/73085251/145672840-3c0cd372-bb3b-440c-a600-0ff2ed6f43ce.mp4)
+
 
 ## Kontak
 
