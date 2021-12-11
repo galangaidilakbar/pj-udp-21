@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "udp-fundamental",
+  "version": "1.0.0",
+  "description": "mempelajari basic udp",
+  "main": "index.js",
+  "scripts": {
+    "server": "node server.js",
+    "client": "node client.js"
+  },
+  "author": "Galang Aidil Akbar",
+  "license": "ISC",
+  "dependencies": {
+    "dgram": "^1.0.1"
+  }
+}
